@@ -1,10 +1,10 @@
 # Repositori Praktikum Pemrograman Web 2026 
 
 **Informasi Mahasiswa:** 
-**Nama:** Putri Fitriani Azzahra * 
-**NIM:** 2406026 * 
-**Kelas/Prodi:** Teknik Informatika - ITG * 
-**Kode MK:** IFRWP5151 
+- **Nama:** Putri Fitriani Azzahra  
+- **NIM:** 2406026 
+- **Kelas/Prodi:** Teknik Informatika - ITG 
+- **Kode MK:** IFRWP5151 
 
 --- 
 ## Catatan Modul 1 
