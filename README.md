@@ -13,7 +13,7 @@
 - Konfigurasi identitas Git global. 
 
 ### Spesifikasi Perangkat
-Sistem Operasi : DESKTOP-KFGI71B
+Sistem Operasi : DESKTOP-KFGI71B, Windows 11 Pro
 Processor : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
 Kapasitas RAM : 16,0 GB (15,8 GB usable)
 Versi Node.js : v24.21.0
